@@ -36,5 +36,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - any queries that need resolving
 - what part of the application are you most proud of (if any)
   - creating the UI. It's my first time to create a calculator in Vuejs
-- any improvements you would make - NA
+- any improvements you would make
+  - The UI of google calculator already looks good, clean and user friendly, maybe changing the color of some button to match the branding of the website
 - any deviation(s) from the requirements - NA
